@@ -1,0 +1,10 @@
+{
+  "name": "Cats quiz",
+  "description": "What breed is this cat? demo for visual tagging app",
+  "type": "project",
+  "categories": [
+    "images"
+  ],
+  "icon": "https://i.imgur.com/kVDmthW.jpg",
+  "icon_cover": true
+}
