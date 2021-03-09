@@ -20,11 +20,10 @@
 
 Demo Project with 7 images. Use`Visual Tagging` to correctly classify cats breed. 
 
-<p>
-    <img src="https://i.imgur.com/KHOd4ri.jpg" alt>
-    <em>Image credit: <a href="https://cat-world.com/what-breed-is-my-cat/">link</a></em>
-</p>
-
+<div>
+    <img src="https://i.imgur.com/KHOd4ri.jpg">
+    <div>Image credit: <a href="https://cat-world.com/what-breed-is-my-cat/">link</a></div>
+</div>
 
 
 ## Data Rights
