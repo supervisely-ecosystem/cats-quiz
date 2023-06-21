@@ -1,5 +1,5 @@
 <div align="center" markdown>
-<img src="catquiz.jpeg" width="250"/><br>
+<img src="slyecosystem.png" width="250"/><br>
 
 # Cats Quiz: what breed is this cat?
 
@@ -21,7 +21,7 @@
 Demo Project with 7 images. Use`Visual Tagging` to correctly classify cats breed. 
 
 <div>
-    <img src="https://i.imgur.com/KHOd4ri.jpg" width="100%">
+    <img src="poster.jpg" width="100%">
     <div>Image credit: <a href="https://cat-world.com/what-breed-is-my-cat/">link</a></div>
 </div>
 
