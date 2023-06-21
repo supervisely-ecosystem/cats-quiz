@@ -1,5 +1,5 @@
 <div align="center" markdown>
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/><br>
+<img src="catquiz.jpeg" width="250"/><br>
 
 # Cats Quiz: what breed is this cat?
 
